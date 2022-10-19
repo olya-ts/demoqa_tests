@@ -1,0 +1,8 @@
+{
+  "browser": "Chrome",
+  "url": "https://demoqa.com/",
+  "wait_time": 10,
+  "poll_frequency": 0.1,
+  "browser_options": ["--incognito", "--lang=en"],
+  "default_directory": "C:\\Users\\User\\Desktop\\demoqa\\tests\\downloads\\"
+}
